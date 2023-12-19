@@ -22,8 +22,9 @@
 
 5. Modelo en espiral.
 
-- 
+- Se conforman en una espiral, en la que cada bucle o iteración representa un conjunto de actividades. Las actividades no están fijadas se eligen en función del análisis de riesgo, comenzando por el bucle anterior.
 
 6. Modelos Ágiles.
 
 - 
+
