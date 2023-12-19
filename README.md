@@ -26,5 +26,5 @@
 
 6. Modelos Ágiles.
 
-- 
+- Es un ciclo de vida adaptativo, iterativo e incremental, orientado al cambio y a los principios ágiles. Los proyectos donde se utiliza metodología ágil son aquellos donde el alcance y los requerimientos o están poco definidos o son cambiantes.
 
