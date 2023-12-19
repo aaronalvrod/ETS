@@ -2,7 +2,7 @@
 
 ### ¿Que es el ciclo de vida del desarrollo del software?
 
-    - Describe los tipos de actividad que se realizan en cada etapa de un proyecto de desarrollo de software, y como las actividades se realcionan entre sí de forma lógica y cronológica, en el exiten 6 modelos, que son:
+- Describe los tipos de actividad que se realizan en cada etapa de un proyecto de desarrollo de software, y como las actividades se realcionan entre sí de forma lógica y cronológica, en el exiten 6 modelos, que son:
 
 1. Modelo en cascada.
 
