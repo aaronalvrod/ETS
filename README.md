@@ -49,3 +49,9 @@
 - Es un ciclo de vida adaptativo, iterativo e incremental, orientado al cambio y a los principios ágiles. Los proyectos donde se utiliza metodología ágil son aquellos donde el alcance y los requerimientos o están poco definidos o son cambiantes.
 
 ![Modelo ágil](https://www.ealde.es/wp-content/uploads/2017/03/ciclo-de-vida-agil-proyectos..jpg)
+
+---
+
+Video explicativo:
+
+[![Video explicativo](https://img.youtube.com/vi/tYoowJfPzZg/maxresdefault.jpg)](https://youtu.be/tYoowJfPzZg?si=h2oDPQBhGtAMbQhY)
