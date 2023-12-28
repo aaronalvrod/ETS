@@ -6,6 +6,8 @@
 
 ---
 
+- En los ánalisis de requisitos nos topamos con requisitos funcionales y no funcionales.
+
 | Funcionales | No funcionales |
 |-------------|----------------|
 | Son aquellos que describen cualquier actividad que esta deba realizar | Se trata de requisitos que no se refieren directamente a las funciones especificas suministradas por el sistema |
