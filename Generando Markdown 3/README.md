@@ -53,7 +53,7 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 ---
 
 ### Fases de desarrollo del método ágil (características y funciones)
-
+...
 
 
 
