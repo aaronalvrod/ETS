@@ -119,6 +119,64 @@ Podemos encontrar muchos beneficios en el desarrollo ágil. Entre otros se encue
 
 --- 
 
+### Metodologías ágiles
+
+Hay bastantes metodologías ágiles, todas comparten filosofías, características y prácticas similares. Sin embargo, tras ser implementada, cada metodologia tiene sus propias prácticas, terminologías y tácticas. Algunas de las principales metodologías de desarrollo ágil de software son:
+
+- Scrum
+
+    Scrum es un framework de gestión con grandes posibilidades de control y gestión de las iteraciones y los incrementos en todo tipo de proyectos. Las tácticas Scrum son ligeras y se pueden combinar con otras metodologías ágiles. Su popularidad ha crecido dentro de la comunidad de desarrollo ágil, ya que son sencillas y tienen una probada productividad.
+
+- Lean and Kandban
+
+    1. Desarrollo de Software Lean
+
+        El desarrollo de software lean es una metodología iterativa originalmente desarrollada por Mary y Tom Poppendieck. Muchos de los principios y prácticas de esta metodología vienen de la tendencia de iniciativas lean y fueron usadas por primera vez en grandes compañías, como Toyota. Este método basado en el valor se centra en entregar al cliente un eficiente mecanismo de “Flujo de Valor” que define el valor del proyecto.
+
+        Los principios esenciales de esta metodología son:
+
+        - No desperdiciar
+        - Ampliar el aprendizaje
+        - Tomar las decisiones tan tarde como sea posible
+        - Entregar los resultados tan rápido como sea posible
+        - Empoderar al equipo
+        - Lograr integridad
+        - Visualizar todo el Proyecto
+
+    2. El método kanban
+
+        Las organizaciones utilizan el método Kanban para gestionar la creación del proyecto a la vez que se pone el énfasis en la entrega continua y en no sobrecargar al equipo de desarrollo. Como el método Scrum, los procesos Kanban están diseñados para ayudar a los equipos a trabajar juntos de manera más eficiente.
+
+        Tiene tres principios:
+
+        - Visualiza lo que haces: ve todos los elementos dentro del contexto de cada uno – más informativo
+        - Limita la cantidad de trabajo en progreso (WIP): equilibra el flujo de trabajo, de manera que los equipos no se ven forzados a realizar mucho trabajo
+        - Mejora el flujo de trabajo: tan pronto como una tarea esté finalizada, comienza con el siguiente trabajo más grande del backlog
+
+- Programación extrema (XP)
+
+    El método Programación Extrema (XP) fue originalmente descrito por Kent Beck. Es una de las metodologías ágiles más populares y controvertidas. XP es un método de mucha disciplina que consiste en entregar continuamente software de alta calidad con rapidez. El cliente se involucra activamente con el equipo para realizar la planificación, el testeo y dar feedback, consiguiendo entregar software funcional con frecuencia. El software debería ser entregado por intervalos, cada tres semanas.
+
+- Crystal
+
+    La metodología Crystal es una de las menos pesadas y más adaptables en el mundo del desarrollo software. Está compuesta de varios procesos ágiles, que incluyen el Clear, Crystal Yellow, Crystal Orange, y otros métodos. Hay muchos factores que impulsan estos procesos, incluyendo: el tamaño del equipo y del sistema, y las prioridades del proyecto.
+
+    La familia de Crystal se centra en el hecho de que cada proyecto tiene características únicas, por tanto, las políticas y prácticas tienen que adaptarse a estas características.
+
+- Método de desarrollo de sistemas dinámicos 
+
+    El Método de Desarrollo de Sistemas Dinámicos (DSDM) se creó en 1994 para proveer un framework estándar para la entrega de proyectos, y por entonces se llamó Desarrollo Rápido de Aplicaciones (DRA). Aunque era muy popular en los 90, el modelo DRA se desarrolló de manera no estructurada.
+    Desde sus inicios, el DSDM ha evolucionado y madurado; ahora proporciona una base para la planificación, la gestión, la ejecución y el escalado del proceso ágil y los proyectos iterativos.
+
+    El DSDM utiliza un enfoque “de propósito comercial” para la entrega y los criterios de aceptación. Se centra en la fórmula: lanzamiento del 80% del sistema en el 20% del tiempo.
+
+- Desarrollo basado en funcionalidades
+
+    Es un proceso iterativo que comienza estableciendo la forma del modelo ágil. Las iteraciones del “diseño basado en las funcionalidades, build basada en las funcionalidades” duran dos semanas. Las funcionalidades gustan a los clientes porque son pequeñas y útiles.
+
+
+
+
 
 
 
