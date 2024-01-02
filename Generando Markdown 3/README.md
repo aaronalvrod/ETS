@@ -53,7 +53,74 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 ---
 
 ### Fases de desarrollo del método ágil (características y funciones)
-...
+
+En 2001, un pequeño grupo de personas, cansadas de los modos tradicionales de gestionar proyectos de desarrollo software, crearon el manifiesto ágil. Es un método mejorado de gestionar los proyectos de desarrollo software.
+
+El método ágil posee 12 principios:
+
+- La mayor prioridad es satisfacer al ciente mediante la entrega continua de software con valor.
+- Siempre se acepta que los requisitos cambien, sin importar cuán pronto o tarde sea en el proyecto.
+- Se entrega software funcional en un pequeño periodo de tiempo.
+- Tanto los desarrolladores como los responsables del negocio deben trabajar juntos a diario durante todo el proyecto.
+- La información se transmite más fácilmente cara a cara.
+- Hay que motivar a la gente mediante la creación de un ambiente de apreciación, confianza y empoderamiento.
+- El software funcionando es la medida principal de progreso.
+- El proceso ágil promueve el desarrollo sostenible.
+- La atención continua a la excelencia técnica y la calidad en el diseño mejora la agilidad.
+- La simplicidad es una parte vital de una buena gestión ágil.
+- Los equipos auto-organizados producen las mejores arquitecturas, requisitos y diseños.
+- Los equipos deben reflexionar mediante la revisión y la adaptación para ser más efectivos.
+
+--- 
+
+Podemos encontrar muchos beneficios en el desarrollo ágil. Entre otros se encuentran:
+
+- Compromiso y satisfacción de los inversores.
+    
+    La metodología ágil crea muchas oportunidades en cada reunión para conseguir un compromiso sincero entre el equipo y los inversores. Ya que el cliente participa activamente en el proyecto, existe una continua colaboración entre todas las partes. Esto brinda al equipo la oportunidad de entender completamente la visión del cliente.
+    
+    Al entregar software funcional y de gran calidad con frecuencia, los inversores crean una relación de confianza con el equipo. Esto ayuda también a que se vuelvan a producir acuerdos entre el equipo y el cliente en el futuro.
+
+- Transparencia.
+
+    El método ágil involucra al cliente en el proyecto completo, incluyendo en el planteamiento de la iteración, las sesiones de revisión, y el anuncio de nuevas características en el software. Los clientes, sin embargo, deben entender que, aunque el proyecto sea transparente, están viendo un WIP (trabajo en curso) y no el producto final.
+
+- Entrega temprana y predecible.
+
+    Los sprints se llevan a cabo en un horario fijo durante 1 a 4 semanas. Gracias a este método, la entrega del producto es muy predecible, ya que las nuevas características pueden ser entregadas a los inversores de manera rápida y frecuente. También permite al equipo a probar o lanzar el software antes si tiene suficiente valor empresarial.
+
+- Horarios y costes predecibles.
+
+    Ya que los sprints se realizan en un horario fijo, los costes son limitados y predecibles, y se basan en la cantidad de trabajo finalizada. Combinando los costes estimados antes de cada sprint, el cliente entenderá mejor los costes aproximados de cada característica. Esto ofrece mejores oportunidades para tomar decisiones a la hora de priorizar características o añadir iteraciones.
+
+- Priorización flexible.
+
+    Las metodologías Scrum permiten una mayor flexibilidad, al priorizar las funciones dirigidas al cliente. El equipo tiene un mayor control sobre las unidades de trabajo que se pueden entregar al final de cada sprint; consiguiendo un progreso continuo hacia el objetivo del producto final. Para obtener con rapidez un RIO del equipo de ingeniería, el trabajo debe ser enviado pronto a los consumidores, de manera que sepan el valor de las funciones del producto.
+
+- Se permite el cambio.
+
+    Aunque el objetivo debería ser entregar el subconjunto acordado de funciones del producto, los procesos Ágiles brindan la oportunidad de cambiar las prioridades y refinar el Backlog del producto. Estos cambios pueden añadirse a la siguiente iteración, de manera que pueden ser introducidos en unas pocas semanas.
+
+- Se pone el foco en el valor de negocio.
+
+    El equipo entiende mejor qué es más importante para el negocio del cliente y puede entregar las características que le den el mayor valor posible a dicho negocio.
+
+- Se centra en los usuarios.
+
+    Las historias de usuario se usan normalmente para definir las funciones del producto, ya que estas se refieren a criterios de aceptación centrados en el negocio. Al centrarse en las necesidades del usuario, cada característica ofrece un valor real y no solamente un componente TI. Otorga una mejor oportunidad para ganar buenas valoraciones a través de pruebas beta del software al finalizar cada Sprint. Esto genera un feedback crucial, ya que a partir del mismo se pueden realizar los cambios necesarios.
+
+- Se mejora la calidad.
+
+    Los proyectos se dividen en unidades manejables, permitiendo al equipo centrarse en el desarrollo de alta calidad, en el testeo y en la colaboración. Al crear compilaciones y realizar pruebas o revisiones a lo largo de la iteración, se pueden encontrar errores y defectos y solucionarlos pronto, mejorando la calidad general del producto.
+
+- Se da un objetivo a tu equipo.
+
+    La mayoría de los procesos ágiles se centran en crear un sentimiento compartido de propiedad y objetivos para todos los miembros del equipo. Esto le pone metas a tu equipo, en lugar de crear una falsa sensación de urgencia. Los equipos que tienen metas son más productivos y se desafían a ellos mismos para ser más rápidos y eficientes.
+
+--- 
+
+
+
 
 
 
