@@ -179,6 +179,35 @@ Hay bastantes metodologías ágiles, todas comparten filosofías, característic
 
 El método más adecuado para realizar un control de ventas seria el método ágil, ya que ofrece flexibilidad y adaptabilidad, lo cual es esencial en entornos comerciales dinámicos como el control de ventas. Sin embargo, la elección entre métodos tradicionales y ágiles también dependerá de factores específicos del proyecto y de la organización.
 
+---
+
+# ¿Cuál es el método más caro de implementar? Justifica la respuesta
+
+El método más caro de implementar suele ser el enfoque tradicional, también conocido como el modelo en cascada por los siquientes motivos:
+
+- **Planificación detallada y rigidez**
+
+    En el método tradicional, se requiere una planificación detallada y exhaustiva desde el principio del proyecto. La rigidez de este enfoque hace que cualquier cambio en los requisitos, una vez iniciada la implementación, sea costoso y complicado de manejar. La planificación meticulosa puede llevar tiempo y recursos considerables.
+
+- **Cambios costosos y retrasos**
+
+    En el modelo en cascada, los cambios en los requisitos después de la fase de diseño pueden ser costosos y pueden resultar en retrasos en el proyecto. La naturaleza secuencial del modelo implica que cualquier ajuste en etapas avanzadas del desarrollo puede requerir modificaciones significativas, lo que lleva a mayores costos y posibles retrasos en la entrega del producto final.
+
+- **Falta de flexibilidad**
+
+    La falta de flexibilidad en el método tradicional puede ser costosa cuando los requisitos cambian o evolucionan durante el desarrollo del proyecto. La incapacidad para adaptarse fácilmente a nuevos requisitos puede llevar a esfuerzos considerables y costosos para realizar ajustes.
+
+- **Validación tardía con el usuario final**
+
+    La validación con el usuario final no ocurre hasta las etapas finales del desarrollo. Esto aumenta el riesgo de que el producto final no cumpla completamente con las expectativas del cliente, lo que podría resultar en costosas correcciones y retrabajo.
+
+- **Mayor riesgo de fallos en la implementación**
+
+    La naturaleza secuencial del método tradicional aumenta el riesgo de fallos en la implementación, ya que cualquier error detectado en etapas avanzadas del desarrollo puede ser más difícil y costoso de corregir.
+
+En comparación, los enfoques ágiles, al ser más adaptables a cambios y permitir entregas incrementales, tienden a gestionar de manera más eficiente los riesgos y los costos asociados con cambios en los requisitos, lo que hace que el desarrollo ágil sea a menudo más rentable y menos propenso a retrasos y costos adicionales.
+
+
 
 
 
