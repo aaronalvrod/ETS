@@ -1,6 +1,6 @@
 # Generando Markdown 3: Método tradicional y método ágil del desarrollo software.
 
-### Fases de desarrollo del método tradicional (caracterísicas y funciones)
+## Fases de desarrollo del método tradicional (caracterísicas y funciones)
 
 Las metodologías tradicionales o rígidas en el desarrollo del software, son aquellas que establecen una disciplina de trabajo sobre el proceso de desarrollo del software, con el propósito de alcanzar un software más eficiente.
 
@@ -8,7 +8,7 @@ Se caracterizan por definir y establecer total y rígidamente todos y cada uno d
 
 El método tradicional funciona aplicando un enfoque lineal donde las etapas del transcurso de desarrollo del software deben completamente secuencialmente. Es decir, una etapa debe completarse antes de que comiece la siguiente, dichas etapas reúnen la recopilación de requisitos y documentación.
 
-*Tipos de metodología clásicas*
+**Tipos de metodología clásicas**
 
 - En cascada:
 
