@@ -88,3 +88,33 @@ El ciclo de Sprint se repite continuamente a lo largo del proyecto hasta que se 
 
 ## ¿Qué es el Product Backlog?
 
+El Product Backlog es una lista dinámica y priorizada de todas las características, funcionalidades, mejoras y tareas que podrían ser necesarias o beneficiosas en un proyecto. En el contexto de Scrum, el Product Backlog es propiedad del Product Owner y representa el trabajo futuro que se debe realizar en el proyecto.
+
+Algunas características clave del Product Backlog son:
+
+- **Priorización:**
+    
+     Los elementos del Product Backlog están ordenados por prioridad, con los ítems más importantes o de mayor valor para el cliente en la parte superior. Esta priorización es responsabilidad del Product Owner.
+
+- **Cambios Constantes:**
+
+     El Product Backlog es dinámico y puede cambiar con el tiempo a medida que se obtiene más información, se reciben comentarios del cliente o se producen cambios en los requisitos del proyecto.
+
+- **Detalle Variable:**
+    
+     Los elementos del Product Backlog pueden variar en detalle, desde ítems de alto nivel que describen funcionalidades generales hasta ítems más detallados que especifican características específicas.
+
+- **Estimación de Esfuerzo:**
+
+     Aunque no es un requisito, algunos equipos optan por estimar el esfuerzo necesario para completar cada elemento del Product Backlog. Esto puede ayudar en la planificación y priorización.
+
+- **Participación del Equipo:**
+
+     Aunque el Product Owner es responsable de la priorización, se fomenta la colaboración con el equipo de desarrollo para asegurarse de que los elementos del Product Backlog sean comprensibles y factibles.
+
+En la Reunión de Planificación del Sprint al inicio de cada Sprint, el equipo de desarrollo selecciona un conjunto de elementos del Product Backlog para trabajar durante el Sprint. Estos elementos forman el Sprint Backlog, que representa el trabajo específico que se realizará en ese Sprint en particular.
+
+El Product Backlog es una herramienta clave para gestionar el trabajo y garantizar que el equipo se esté centrando en las características y funcionalidades que ofrecen el máximo valor al cliente.
+
+## ¿Qué es el Sprint Backlog?
+
