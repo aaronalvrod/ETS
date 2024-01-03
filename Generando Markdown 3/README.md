@@ -10,7 +10,7 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 
 **Tipos de metodología clásicas**
 
-- En cascada:
+- **En cascada:**
 
     El nombre de cascada de esta metodología se deriva de cómo se organizan las etapas, desarrollando las funciones en etapas diferenciadas y en estricto orden. En esta metodología se debe revisar el producto antes de cada etapa para ver si está listo para pasar a la siguiente fase.
 
@@ -18,7 +18,7 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 
     Las ventajas del modelo en cascada son que la documentación se produce en cada fase y este cuadra con otros modelos del proceso de ingeniería. La principal desventaja es su inflexibilidad en dividir el proyecto en distintas etapas.
 
-- Incremental:
+- **Incremental:**
 
     En esta metodología de desarrollo de software se va elaborando el prodcuto final de manera progresiva. En cada etapa se añade una nueva funcionalidad, con la finalidad de ver resultados de una forma más rápida en comparación con el modelo en cascada.
 
@@ -26,11 +26,11 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 
     En otras palabras el modelo de desarrollo incremental es la duración de vida de desarrollo software, el mismo descompone un proyecto en una serie de incrementos, los cuales suministran una porción de la funcionalidad respecto de la totalidad de los requisitos del proyecto. Los requisitos tienen asignada una prioridad y son entregados según el orden de prioridad en el incremento correspondiente.
 
-- Prototipo:
+- **Prototipo:**
 
     La  metodología de desarrollo de software prototipo, se fundamenta en la elaboración de un prototipo  que se construye rápidamente, para que el cliente o usuario lo pruebe y proporcione su feedback, lo que permite detectar y arreglar lo que está mal, e introducir requerimientos que puedan presentarse, este modelo se fundamenta en el método de ensayo y error para entender las especificidades del producto.
 
-- Espiral:
+- **Espiral:**
 
     El nombre de esta metodología se debe a su funcionamiento, ya que las etapas se procesan en forma de espiral. Cuanto más cerca del centro se está, más avanzado está el proyecto.
 
@@ -42,7 +42,7 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 
     El desarrollo en espiral es universal y se combina con otros métodos de desarrollo clásicos y ágiles, es por ello que también se le llama modelo o desarrollo de segundo orden.
 
-- Desarrollo rápido de aplicaciones:
+- **Desarrollo rápido de aplicaciones:**
 
     En español Modelo de Desarrollo Rápido de Aplicaciones (DRAI), y por sus siglas en inglés RAD, (Rapid Application Development) y es un procedimiento ágil de desarrollo de software, el cual da prioridad a las entregas y repeticiones rápidas de prototipos. Cabe destacar que las repeticiones rápidas reducen el periodo de desarrollo y agilizan la entrega.
 
@@ -52,7 +52,7 @@ El método tradicional funciona aplicando un enfoque lineal donde las etapas del
 
 ---
 
-### Fases de desarrollo del método ágil (características y funciones)
+## Fases de desarrollo del método ágil (características y funciones)
 
 En 2001, un pequeño grupo de personas, cansadas de los modos tradicionales de gestionar proyectos de desarrollo software, crearon el manifiesto ágil. Es un método mejorado de gestionar los proyectos de desarrollo software.
 
