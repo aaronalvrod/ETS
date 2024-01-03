@@ -179,7 +179,7 @@ Hay bastantes metodologías ágiles, todas comparten filosofías, característic
 
 # ¿Cuál crees que es el método más adecuado para realizar un control de ventas?
 
-    El método más adecuado para realizar un control de ventas seria el método ágil, ya que ofrece flexibilidad y adaptabilidad, lo cual es esencial en entornos comerciales dinámicos como el control de ventas. Sin embargo, la elección entre métodos tradicionales y ágiles también dependerá de factores específicos del proyecto y de la organización.
+El método más adecuado para realizar un control de ventas seria el método ágil, ya que ofrece flexibilidad y adaptabilidad, lo cual es esencial en entornos comerciales dinámicos como el control de ventas. Sin embargo, la elección entre métodos tradicionales y ágiles también dependerá de factores específicos del proyecto y de la organización.
 
 
 
