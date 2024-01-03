@@ -181,7 +181,7 @@ El método más adecuado para realizar un control de ventas seria el método ág
 
 ---
 
-# ¿Cuál es el método más caro de implementar? Justifica la respuesta
+# ¿Cuál es el método más caro de implementar?
 
 El método más caro de implementar suele ser el enfoque tradicional, también conocido como el modelo en cascada por los siquientes motivos:
 
