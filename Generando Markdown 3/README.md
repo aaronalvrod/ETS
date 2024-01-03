@@ -175,6 +175,14 @@ Hay bastantes metodologías ágiles, todas comparten filosofías, característic
     Es un proceso iterativo que comienza estableciendo la forma del modelo ágil. Las iteraciones del “diseño basado en las funcionalidades, build basada en las funcionalidades” duran dos semanas. Las funcionalidades gustan a los clientes porque son pequeñas y útiles.
 
 
+---
+
+# ¿Cuál crees que es el método más adecuado para realizar un control de ventas?
+
+    El método más adecuado para realizar un control de ventas seria el método ágil, ya que ofrece flexibilidad y adaptabilidad, lo cual es esencial en entornos comerciales dinámicos como el control de ventas. Sin embargo, la elección entre métodos tradicionales y ágiles también dependerá de factores específicos del proyecto y de la organización.
+
+
+
 
 
 
