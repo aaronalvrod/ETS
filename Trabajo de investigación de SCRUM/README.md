@@ -242,3 +242,76 @@ Sus funciones y responsabilidades son:
 
 ## ¿Qué es el Sprint planning meeting?
 
+La Sprint Planning Meeting es un evento en el marco de trabajo Scrum que ocurre al inicio de cada Sprint. Su objetivo principal es planificar y coordinar el trabajo que el equipo de desarrollo llevará a cabo durante ese Sprint específico. Durante esta reunión, el equipo se reúne para colaborar en la selección de los elementos del Product Backlog que abordarán y para crear el plan detallado de trabajo para el próximo Sprint.
+
+Los objetivos de esta reunión son:
+
+- **Definir el objetivo del sprint**
+
+    El Product Owner comparte la visión y los objetivos del proyecto, y el equipo de desarrollo comprende qué se espera lograr al final del Sprint.
+
+- **Seleccionar elementos del product backlog**
+
+    El equipo de desarrollo, con la orientación del Product Owner, revisa y selecciona los elementos del Product Backlog que se abordarán durante el Sprint. Estos elementos se colocan en el Sprint Backlog.
+
+- **Descomposición de tareas**
+
+    Los miembros del equipo descomponen los elementos del Sprint Backlog en tareas más pequeñas y manejables. Esto facilita una comprensión más detallada y la estimación del esfuerzo requerido.
+
+- **Estimación de esfuerzo**
+
+    Opcionalmente, el equipo puede estimar el esfuerzo necesario para cada tarea. Esto puede ayudar en la planificación y en el seguimiento del progreso durante el Sprint.
+
+- **Compromiso del equipo**
+
+    Al final de la reunión, el equipo tiene una comprensión clara de qué trabajo se realizará durante el Sprint y está comprometido con la entrega exitosa del incremento de producto.
+
+Los participantes de esta reunión son:
+
+| Equipo de Desarrollo | Product Owner | Scrum Master |
+|----------------------|---------------|--------------|
+| Los miembros del equipo que llevarán a cabo el trabajo durante el sprint | Proporciona información sobre el product backlog y clarifica los requisitos del cliente | Facilita la reunión, asegurándose de que se sigan las prácticas de Scrum y ayudando a resolver cualquier impedimento que pueda surgir durante la planificación |
+
+## ¿Qué es el Sprint review?
+
+El Sprint Review es un evento clave dentro del marco de trabajo Scrum que tiene lugar al final de cada Sprint. Su propósito principal es inspeccionar el incremento de producto desarrollado durante el Sprint y recopilar feedback valioso de los stakeholders para adaptar y mejorar el producto.
+
+Sus aspectos principales son:
+
+- **Inspeccionar el incremento de producto**
+
+    El equipo de desarrollo presenta el trabajo completado durante el Sprint. Esto incluye demostrar las funcionalidades implementadas y cualquier cambio en el producto.
+
+- **Obtener el feedback de los stakeholders**
+
+    Se invita a los stakeholders, incluyendo al Product Owner y a cualquier otra persona interesada, a proporcionar feedback sobre el incremento del producto. Esto puede incluir observaciones, preguntas o sugerencias para mejoras.
+
+- **Actualizar el product backlog**
+
+    Basándose en el feedback recibido durante la revisión, el Product Owner actualiza el Product Backlog para reflejar las nuevas necesidades o cambios en los requisitos.
+
+- **Reflejar sobre el sprint**
+
+    El equipo de desarrollo tiene la oportunidad de reflexionar sobre el Sprint, discutir lo que funcionó bien y cómo podrían mejorar en el futuro. Esta reflexión es parte de la Retrospectiva del Sprint, que puede llevarse a cabo después de la Revisión del Sprint.
+
+## ¿Qué es el Sprint retrospective?
+
+El Sprint Retrospective es otro evento clave dentro del marco de trabajo Scrum, y se lleva a cabo al final de cada Sprint. El objetivo principal de la Retrospectiva del Sprint es permitir que el equipo de desarrollo reflexione sobre su desempeño durante el Sprint y busque maneras de mejorar continuamente.
+
+Sus principales objetivos son:
+
+- **Reflexionar sobre el sprint**
+
+    El equipo de desarrollo reflexiona sobre el Sprint recién completado. Se analiza lo que funcionó bien, lo que no funcionó tan bien y cualquier problema o impedimento que haya surgido.
+
+- **Identificar áreas de mejora**
+
+    El equipo busca identificar oportunidades de mejora y acciones específicas que puedan implementarse en el próximo Sprint para aumentar la eficiencia y la efectividad.
+
+- **Promover la colaboración y la comunicación**
+
+    Se fomenta la apertura y la honestidad en la comunicación dentro del equipo. La retroalimentación positiva y constructiva es clave para el éxito de la retrospectiva.
+
+- **Planificar acciones para el próximo sprint**
+
+    Se acuerdan y planifican acciones concretas que el equipo de desarrollo implementará en el próximo Sprint para abordar las áreas identificadas para mejorar.
