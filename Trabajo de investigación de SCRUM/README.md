@@ -118,3 +118,87 @@ El Product Backlog es una herramienta clave para gestionar el trabajo y garantiz
 
 ## ¿Qué es el Sprint Backlog?
 
+El Sprint Backlog es una parte importante del marco de trabajo Scrum y se refiere al conjunto de elementos del Product Backlog seleccionados para ser trabajados durante un Sprint específico. Es una lista más detallada y específica que se crea durante la Reunión de Planificación del Sprint, que marca el inicio de cada Sprint en Scrum.
+
+Algunas características y puntos clave sobre el Sprint Backlog incluyen:
+
+- **Selección de Elementos del Product Backlog**
+
+    Planificación del Sprint, el equipo de desarrollo, con la orientación del Product Owner, selecciona y compromete un conjunto de elementos del Product Backlog que serán abordados durante el Sprint.
+
+- **Detalles y Tareas Específicas**
+
+    A diferencia del Product Backlog, el Sprint Backlog se enfoca en los detalles y tareas específicas necesarias para completar los elementos seleccionados. Puede incluir desgloses más detallados de las funcionalidades y las tareas necesarias para implementarlas.
+
+- **Estimaciones de Esfuerzo**
+
+    En algunos casos, el equipo de desarrollo puede estimar el esfuerzo necesario para completar cada tarea del Sprint Backlog. Esto puede ayudar en la planificación y seguimiento del progreso.
+
+- **Propiedad del Equipo de Desarrollo**
+
+    Aunque el Product Owner puede aclarar y ajustar los elementos del Sprint Backlog, la responsabilidad principal recae en el equipo de desarrollo, que decide cómo llevar a cabo el trabajo y se organiza internamente para lograrlo.
+
+- **Actualización Dinámica**
+
+    A medida que progresa el Sprint, el Sprint Backlog puede actualizarse para reflejar cambios en el alcance o en las prioridades. Esto puede ocurrir durante la Daily Scrum o en cualquier momento en que el equipo lo considere necesario.
+
+El Sprint Backlog es una herramienta fundamental para que el equipo de desarrollo organice y realice el trabajo planificado durante el Sprint. La finalización exitosa de todas las tareas del Sprint Backlog contribuye al logro del objetivo del Sprint y al incremento potencialmente entregable del producto al final del Sprint.
+
+## ¿Qué es un Daily scrum meeting? ¿Cuánto dura? ¿Quién lo organiza?
+
+El Daily Scrum es una reunión diaria en Scrum que proporciona una oportunidad para que el equipode desarrollo se sincronice, comparta actualizaciones y coordine el trabajo en curso. También se conoce comúnmente como la Daily Standup o Scrum Daily Meeting. Los detalles de esta reunión son:
+
+| Objetivo | Duración | Frecuencia | Participantes | Estructura | Organización |
+|----------|----------|------------|---------------|------------|--------------|
+| - Proporcionar una breve actualización sobre el prograso diario. | - La reunión suele ser corta y se espera que dure 15 minutos o menos. La intención es mantenerla ágil y enfocada. | - Se lleva a cabo todos los días laborables durante la duración del Sprint. | - El equipo de desarrollo, que incluye a todos los miembros responsables de la implementación del trabajo. | - ¿Qué hice desde la última reunión? | - El Scrum Master facilita la reunión pero no la dirige ni controla. Su función principal es eliminar impedimentos y facilita la colaboración. |
+| - Coordinar esfuerzos y ayuddar a identificar posibles impedimentos. |  |  | - El Scrum Master, quien facilita la reunión y ayuda a eliminar impedimentos. | - ¿Qué voy a hacer hasta la próxima reunión? | 
+| - Mantener a todos los miembros del equipo informados sobre el estado del proyecto. |  |  | - El Product Owner puede asistir, pero generalmente solo escucha y no interviene directamente. | - ¿Hay algún impedimento que me esté impidiendo avanzar? |
+
+# Equipo
+
+## ¿Cuántas personas componene un equipo?
+
+En Scrum, el tamaño ideal de un equipo de desarrollo es de 3 a 9 personas. Este rango se basa en la idea de que equipos más pequeños son más ágiles, facilitan la comunicación y la colaboración, y son más eficientes en la toma de decisiones. Sin embargo, también se reconoce que hay situaciones y contextos específicos que podrían requerir equipos más grandes o más pequeños.
+
+Es importante adaptar el tamaño del equipo a las necesidades específicas del proyecto y a la organización. La colaboración efectiva, la comunicación abierta y la capacidad de adaptarse a los cambios son consideraciones clave al determinar el tamaño del equipo en el contexto de Scrum.
+
+## ¿Quién es el Producto Owner? ¿Cualés son sus funciones y responsabilidades?
+
+El Product Owner es un rol clave en el marco de trabajo Scrum. Su función principal es representar los intereses del cliente, stakeholders y usuarios finales del producto.
+
+Sus funciones y responsabilidades son:
+
+- **Definir y priorizar el product backlog**
+
+    El Product Owner es responsable de mantener y priorizar el Product Backlog, que es una lista dinámica y priorizada de todas las funcionalidades, mejoras y tareas que podrían ser necesarias o beneficiosas en el proyecto.
+
+- **Definir Requisitos del Producto**
+
+    Trabaja estrechamente con los stakeholders y el equipo de desarrollo para comprender las necesidades del cliente y definir los requisitos del producto. Esto implica una comunicación constante para asegurar que el producto resultante cumpla con las expectativas.
+
+- **Toma de decisiones sobre prioridades**
+
+    Decide qué características y funcionalidades son más importantes y deben ser implementadas primero. Esta toma de decisiones se basa en el valor que aporta cada elemento del Product Backlog.
+
+- **Participar en reuniones del sprint**
+
+    El Product Owner participa en eventos clave de Scrum, como la Reunión de Planificación del Sprint, la Revisión del Sprint y la Retrospectiva del Sprint, para proporcionar claridad sobre los objetivos y las expectativas del producto.
+
+- **Asegurar el valor del producto**
+
+    Es responsable de maximizar el valor del trabajo realizado por el equipo de desarrollo, asegurándose de que el producto cumpla con las expectativas del cliente y stakeholders.
+
+- **Proporcionar claridad**
+
+    El Product Owner debe estar disponible para el equipo de desarrollo para responder preguntas y proporcionar aclaraciones sobre los elementos del Product Backlog durante el Sprint.
+
+- **Aceptar o rechazar el trabajo**
+
+    Al final de cada Sprint, revisa el trabajo completado y decide si acepta o rechaza el incremento del producto.
+
+- **Comunicación  efectiva**
+
+    Mantiene una comunicación efectiva con el equipo de desarrollo y los stakeholders para garantizar la alineación de todos los interesados con respecto a las metas y el progreso del proyecto.
+
+## ¿Quién es el Scrum Master? ¿Cuáles son sus funciones y responsabilidades?
+
