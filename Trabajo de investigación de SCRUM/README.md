@@ -202,3 +202,43 @@ Sus funciones y responsabilidades son:
 
 ## ¿Quién es el Scrum Master? ¿Cuáles son sus funciones y responsabilidades?
 
+El Scrum Master es un rol fundamental en el marco de trabajo Scrum. A diferencia de un "jefe de proyecto" tradicional, el Scrum Master no tiene autoridad directa sobre el equipo de desarrollo. En cambio, su función principal es facilitar el proceso Scrum y ayudar a eliminar obstáculos que puedan impedir el progreso del equipo.
+
+Sus funciones y responsabilidades son:
+
+- **Facilitador del proceso**
+
+    Facilita y apoya los eventos de Scrum, como la Reunión de Planificación del Sprint, la Daily Scrum, la Revisión del Sprint y la Retrospectiva del Sprint, para asegurar que se lleven a cabo de manera efectiva y se cumplan los objetivos.
+
+- **Eliminador de Obstáculos**
+
+    Trabaja activamente para identificar y eliminar obstáculos o impedimentos que puedan afectar al equipo de desarrollo, impidiendo que alcance sus objetivos durante el Sprint.
+
+- **Promotor de autogerenciamiento**
+
+    Ayuda al equipo de desarrollo a llegar a un estado de autogerenciamiento, donde los miembros del equipo asumen la responsabilidad de su trabajo y toman decisiones colectivas sobre cómo alcanzar sus metas.
+
+- **Enseñanza y facilitación**
+
+    Educa al equipo de desarrollo, al Product Owner y a otros stakeholders sobre los principios y prácticas de Scrum. Facilita la comprensión y adopción de Scrum en la organización.
+
+- **Apoyo al product owner**
+
+    Colabora con el Product Owner para garantizar que el Product Backlog esté bien definido y priorizado. Ayuda a establecer expectativas claras y realistas para el equipo de desarrollo.
+
+- **Fomento de la mejora continua**
+
+    Facilita la Retrospectiva del Sprint para que el equipo pueda reflexionar sobre su desempeño, identificar áreas de mejora y planificar acciones específicas para el próximo Sprint.
+
+- **Mediador y líder de servicio**
+
+    Actúa como mediador en situaciones de conflicto y ayuda a fomentar un ambiente de colaboración y respeto. Se enfoca en liderar a través del servicio, apoyando a los demás para alcanzar el éxito.
+
+- **Monitoreo de métricas y tendencias**
+
+    Ayuda al equipo a comprender y utilizar métricas relevantes para evaluar su desempeño y mejorar continuamente.
+
+# Meetings
+
+## ¿Qué es el Sprint planning meeting?
+
