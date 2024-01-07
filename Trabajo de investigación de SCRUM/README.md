@@ -315,3 +315,8 @@ Sus principales objetivos son:
 - **Planificar acciones para el próximo sprint**
 
     Se acuerdan y planifican acciones concretas que el equipo de desarrollo implementará en el próximo Sprint para abordar las áreas identificadas para mejorar.
+
+
+---
+
+[![Video explicativo SCRUM](https://youtu.be/sLexw-z13Fo?si=k18FQaMwxXDzSKXp00)](https://img.youtube.com/vi/sLexw-z13Fo/maxresdefault.jpg)
