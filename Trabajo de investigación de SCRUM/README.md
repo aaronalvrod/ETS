@@ -8,6 +8,7 @@ En el contexto de desarrollo de software, Scrum se enfoca en la flexibilidad, ad
 
 El uso de Scrum en el desarrollo de software se ha vuelto muy popular debido a su capacidad para mejorar la productividad, la calidad del producto y la satisfacción del cliente. 
 
+![SCRUM](https://cdn.papershift.com/20220926134353/Metodologi%CC%81a-scrum-scaled-910x500.jpeg)
 ## Caracteristicas de SCRUM
 
 SCRUM tiene varias características clave que definene su enfoque ágil para el desarrollo de proyectos. Estas características incluyen:
@@ -316,7 +317,4 @@ Sus principales objetivos son:
 
     Se acuerdan y planifican acciones concretas que el equipo de desarrollo implementará en el próximo Sprint para abordar las áreas identificadas para mejorar.
 
-
----
-
-[![Video explicativo SCRUM](https://youtu.be/sLexw-z13Fo?si=k18FQaMwxXDzSKXp00)](https://img.youtube.com/vi/sLexw-z13Fo/maxresdefault.jpg)
+    
