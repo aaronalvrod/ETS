@@ -10,9 +10,11 @@ Documenta la especificación en markdown, y súbelo a tu cuenta de github
 
 ## Caso de uso Biblioteca
 
-Casos de Uso para Usuario:
+**Casos de Uso para Usuario:**
 
-#### Buscar Libro:
+---
+
+### Buscar Libro:
 
 **Descripción**
 
@@ -30,7 +32,9 @@ Casos de Uso para Usuario:
 
 Si no se encuentran resultados, el sistema muestra un mensaje indicando que no se encontraron libros.
 
-#### Ver Información del Libro:
+---
+
+### Ver Información del Libro:
 
 **Descripción**
 
@@ -45,7 +49,9 @@ Si no se encuentran resultados, el sistema muestra un mensaje indicando que no s
 - El usuario selecciona un libro de la lista de resultados de búsqueda o del catálogo.
 - El sistema muestra información detallada sobre el libro, como título, autor, sinopsis, etc.
 
-#### Solicitar Préstamo
+---
+
+### Solicitar Préstamo
 
 **Descripción**
 
@@ -61,7 +67,9 @@ Si no se encuentran resultados, el sistema muestra un mensaje indicando que no s
 - El usuario solicita el préstamo del libro.
 - El sistema registra el préstamo y actualiza el estado del libro a "prestado".
 
-#### Devolver Libro:
+---
+
+### Devolver Libro:
 
 **Descripción**
 
