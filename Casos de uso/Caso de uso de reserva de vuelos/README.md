@@ -10,7 +10,7 @@ Documenta en Markdown y súbelo a github. El repositorio tendrá el nombre de Re
 
 ## Caso de uso Reserva de Vuelos
 
-Casos de Uso para Agente de Reservas:
+### Casos de Uso para Agente de Reservas:
 
 ---
 
