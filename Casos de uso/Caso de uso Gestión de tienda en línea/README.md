@@ -12,6 +12,8 @@ Documenta el Markdown, y súbelo a tu cuenta de github. El repositorio tendrá e
 
 ### Casos de Uso para Cliente
 
+---
+
 #### Ver Catálogo:
 
 **Descripción**
@@ -27,6 +29,8 @@ Documenta el Markdown, y súbelo a tu cuenta de github. El repositorio tendrá e
 - El cliente accede a la sección de catálogo de la tienda en línea.
 
 - El sistema muestra una lista de productos disponibles con detalles como nombre, precio y descripción.
+
+---
 
 #### Realizar Compra
 
@@ -47,6 +51,8 @@ Documenta el Markdown, y súbelo a tu cuenta de github. El repositorio tendrá e
 - El cliente completa el proceso de pago proporcionando la información de envío y pago.
 
 - El sistema procesa la transacción y confirma la compra.
+
+---
 
 #### Ver Historial de Compras
 
