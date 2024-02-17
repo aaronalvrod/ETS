@@ -10,3 +10,13 @@ Documenta en Markdown y súbelo a github. El repositorio tendrá el nombre de Ge
 
 ## Caso de uso Sistema de Cajero automático ATM
 
+#### Caso de uso para cliente bancario
+
+---
+
+#### Hacer Login
+
+**Descripción**
+
+- El cliente bancario inicia sesión en el sistema del cajero automático para acceder a sus servicios.
+
