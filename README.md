@@ -1,1 +1,1 @@
-# Repositorio para subir las tareas de ETS
+# Repositorio dedicado a ETS
