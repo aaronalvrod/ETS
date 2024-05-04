@@ -1,0 +1,1 @@
+![alt text](<Model20!Diagrama de paquetes tienda en linea_21.png>)

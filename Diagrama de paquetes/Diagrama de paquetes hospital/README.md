@@ -1,0 +1,1 @@
+![alt text](<Model16!Diagrama de paquetes hospital_17.png>)

@@ -1,0 +1,1 @@
+![alt text](<Model19!Diagrama de paquetes red social_20.png>)
