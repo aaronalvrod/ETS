@@ -1,0 +1,1 @@
+![alt text](<Model13!Diagrama de objetos biblioteca_13.png>)
